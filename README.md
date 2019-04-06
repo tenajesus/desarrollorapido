@@ -9,6 +9,6 @@ y este es un ejemplo en **negrita**
 
 **Una lista numerada**
 
-1.Dato uno
-2.Dato dos
-3.Dato tres
+1. Dato uno
+2. Dato dos
+3. Dato tres
